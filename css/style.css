@@ -1,3 +1,31 @@
 @charset "utf-8";
 /* CSS Document */
+* {
+	font-family: 'Courier Prime', monospace;
+}
 
+body,
+		html {
+			margin: 0;
+			padding: 0;
+			height: 100%;
+			background-color: #FDF9F1;
+		}
+.paragraph{
+	color: #E8743C;
+	font-size: 20px;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+.image{
+	margin-left: 600px;
+	padding: 10px;
+	
+}
+.heather{
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	color: #FF4F78;
+}
