@@ -29,3 +29,10 @@ body,
 	padding: 0px;
 	color: #FF4F78;
 }
+.background{
+	padding: 0px;
+	margin: 0px;
+	background-image: url("../images/sea.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+}
