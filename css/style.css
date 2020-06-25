@@ -12,14 +12,14 @@ body,
 			background-color: #FDF9F1;
 		}
 .paragraph{
-	color: #E8743C;
+	color: #000;
 	font-size: 20px;
 	margin: 0px;
 	padding: 0px;
 	text-align: center;
 }
 .image{
-	margin-left: 600px;
+	margin-left: 400px;
 	padding: 10px;
 	
 }
@@ -28,10 +28,11 @@ body,
 	margin: 0px;
 	padding: 0px;
 	color: #FF4F78;
+	font-size: 30px;
 }
 .background{
-	padding: 0px;
-	margin: 0px;
+	padding: 70px;
+	margin: 70px;
 	background-image: url("../images/sea.jpg");
 	background-repeat: no-repeat;
 	background-size:cover;
